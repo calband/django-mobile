@@ -76,7 +76,7 @@ setup(
     license='BSD',
     description=u'Detect mobile browsers and serve different template flavours to them.',
     long_description=long_description,
-    author=get_author('django_mobile'),
+    author='calband',
     author_email='calband-compcomm@lists.berkeley.edu',
     keywords='django,mobile',
     classifiers=[
