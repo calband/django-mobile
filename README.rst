@@ -1,4 +1,8 @@
 =============
+Note: This does not support Django 2.0+.
+=============
+
+=============
 django-mobile
 =============
 
